@@ -641,7 +641,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 /* Hide the images by default */
-.mySlides {
+.mySlides1, .mySlides2 {
   display: none;
 }
 
@@ -725,3 +725,4 @@ body:not(.user-is-tabbing) a:focus {
   from {opacity: .4}
   to {opacity: 1}
 }
+
